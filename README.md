@@ -2,7 +2,7 @@
 
 ### Postando _produtos_ e _projetos_. 
 
-#### Em cada etapa é elaborado um projeto que integra os conhecimentos aprendidos.
+#### Em cada etapa/dia é elaborado um projeto que integra os conhecimentos aprendidos.
 
 
 
