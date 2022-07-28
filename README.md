@@ -1,6 +1,6 @@
 # Curso de _Python_ 
 
-### Postando _produtos_ e _projetos_. 
+> _Produtos_ e _projetos_ do curso de Python. 
 
 #### Em cada etapa/dia é elaborado um projeto que integra os conhecimentos aprendidos.
 
